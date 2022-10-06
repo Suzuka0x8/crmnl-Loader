@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Auth">
+      <UniqueIdentifier>{7ed9d66a-32cf-423b-b227-83028d00e31d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Driver">
+      <UniqueIdentifier>{b9ba7bf2-b4b5-44eb-a4bc-9eb94ea6b444}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Driver\Resource">
+      <UniqueIdentifier>{46f734a0-0d06-428b-9685-b69d04087643}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Driver\KDMapper">
+      <UniqueIdentifier>{3bd7fc2a-5b23-40c8-8333-0b72e5d2321a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utils">
+      <UniqueIdentifier>{00dcbf89-b71c-4dc9-ac03-6681ca89279d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Auth\libs">
+      <UniqueIdentifier>{2794291a-1e8a-4e95-a828-7bc8b7820909}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="KDMapper\intel_driver.cpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="KDMapper\kdmapper.cpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="KDMapper\portable_executable.cpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="KDMapper\service.cpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="KDMapper\utils.cpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="KDMapper\intel_driver.hpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="KDMapper\intel_driver_resource.hpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="KDMapper\kdmapper.hpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="KDMapper\nt.hpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="KDMapper\portable_executable.hpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="KDMapper\service.hpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="KDMapper\utils.hpp">
+      <Filter>Header Files\Driver\KDMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="KlarCheatAuth.h">
+      <Filter>Header Files\Auth</Filter>
+    </ClInclude>
+    <ClInclude Include="XorString.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Handler.h">
+      <Filter>Header Files\Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageHandler.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\x64\Release\DUMPED_FILE.h">
+      <Filter>Header Files\Driver\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleInstance.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="KernelInjector.h">
+      <Filter>Header Files\Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteSelf.h">
+      <Filter>Header Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\RWXDLL.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="libs\client.lib">
+      <Filter>Header Files\Auth\libs</Filter>
+    </Library>
+    <Library Include="libs\KlarCheatAuth.lib">
+      <Filter>Header Files\Auth\libs</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
