@@ -1,6 +1,6 @@
 # crmnl | C++ Cheat Loader
    
-  crmnl loader is now open source! thanks to [vanity15](https://github.com/vanity15) and [xCracky](https://github.com/xCracky) for the auth system, Server and Networking <3
+  crmnl loader is now open source! thanks to [vanity15](https://github.com/vanity15) and [xCracky](https://github.com/xCracky) for the auth system, Server and Networking   <3
   The loader is bypassing VAC, BattlEye, RICOCHET Anti-Cheat, EAC (has detection issues at fortnite)
   
 ---
