@@ -5,7 +5,7 @@
   
 ---
   
-## Supported Game
+## Supported Games
 
 | Game Name | Status  |
 | ---- | ---- |
