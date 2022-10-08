@@ -9,12 +9,15 @@
 
 | Game Name | Status  |
 | ---- | ---- |
+| CSGO |   :heavy_check_mark: Everything working |
 | Apex |   :heavy_check_mark: Everything working |
 | R6 |  :heavy_check_mark: Everything working |
 | EFT | :heavy_check_mark: Everything working |
 | Rust | :heavy_check_mark: Everything working |
 | ModernWarfare/Warzone | :heavy_check_mark: Everything working |
 | Fortnite | :x: Use at own risk/Detected! |
+| Overwatch 2 |   :x: In Development soon |
+| More game soon | ... |
 
 ---
 
