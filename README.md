@@ -15,7 +15,7 @@
 | EFT | :heavy_check_mark: Everything working |
 | Rust | :heavy_check_mark: Everything working |
 | ModernWarfare/Warzone | :heavy_check_mark: Everything working |
-| Fortnite | :x: Use at own risk/Detected! |
+| Fortnite | :x: Use at own risk! |
 | Overwatch 2 |   :x: In Development soon |
 | More game soon | ... |
 
