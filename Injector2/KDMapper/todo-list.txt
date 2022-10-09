@@ -1,6 +1,4 @@
 
--kdmapper.cpp
-
 -portable_executable.cpp
 
 -service.cpp
