@@ -24,6 +24,7 @@ int install_stamp()
 	return create_time.dwHighDateTime + create_time.dwLowDateTime;
 }
 
+
 int main()
 {
 	// rand mit dem install timesptamp versehen, damit Bastian sich selbst detected
