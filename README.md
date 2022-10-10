@@ -16,8 +16,7 @@
 | Rust | :heavy_check_mark: Everything working |
 | ModernWarfare/Warzone | :heavy_check_mark: Everything working |
 | Fortnite | :x: Use at own risk! |
-| Overwatch 2 |   :x: In Development |
-| More game soon | ... |
+| Overwatch 2 | :heavy_check_mark: Everything working |
 
 ---
 
