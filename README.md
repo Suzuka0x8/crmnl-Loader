@@ -1,7 +1,7 @@
 # crmnl | Cheat Loader
    
   Thanks to [vanity15](https://github.com/vanity15) and [xCracky](https://github.com/xCracky) for the auth system, Server and Networking   <3
-  The loader is bypassing VAC, Byfron, BattlEye, RICOCHET Anti-Cheat
+  The loader is bypassing VAC, Warden, BattlEye, RICOCHET Anti-Cheat
   
 ---
   
