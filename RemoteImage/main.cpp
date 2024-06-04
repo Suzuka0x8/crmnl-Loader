@@ -3,6 +3,7 @@
 #include <cstdint>
 #include <time.h>
 
+
 int main()
 {
 	auto rwx_module = reinterpret_cast<std::uint64_t>(LoadLibraryA("testdll.dll"));
