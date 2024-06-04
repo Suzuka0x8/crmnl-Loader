@@ -1,12 +1,12 @@
 # crmnl | Cheat Loader
    
   crmnl loader is now open source! thanks to [vanity15](https://github.com/vanity15) and [xCracky](https://github.com/xCracky) for the auth system, Server and Networking   <3
-  The loader is bypassing VAC, Byfron, BattlEye, RICOCHET Anti-Cheat, EAC
+  The loader is bypassing VAC, BattlEye, RICOCHET Anti-Cheat
   
 ---
   
 ## Supported Games
-**XDefiant and R6 is updated regularly, everything else is in the pipeline for now**
+**XDefiant and R6 is updated regularly, everything else will be updated soon**
 | Game Name | Status  |
 | ---- | ---- |
 | CS2 |   :heavy_check_mark: Everything working |
