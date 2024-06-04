@@ -6,7 +6,7 @@
 ---
   
 ## Supported Games
-
+**XDefiant will get frequent updates!**
 | Game Name | Status  |
 | ---- | ---- |
 | CS2 |   :heavy_check_mark: Everything working |
