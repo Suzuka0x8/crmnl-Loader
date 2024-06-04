@@ -6,7 +6,7 @@
 ---
   
 ## Supported Games
-**XDefiant will get frequent updates!**
+**XDefiant and R6 is updated regularly, everything else is in the pipeline for now**
 | Game Name | Status  |
 | ---- | ---- |
 | CS2 |   :heavy_check_mark: Everything working |
