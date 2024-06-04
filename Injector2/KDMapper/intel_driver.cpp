@@ -1,5 +1,6 @@
 #include "intel_driver.hpp"
 
+
 ULONG64 intel_driver::ntoskrnlAddr = 0;
 char intel_driver::driver_name[100] = {};
 uintptr_t PiDDBLockPtr;
