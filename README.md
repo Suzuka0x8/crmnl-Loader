@@ -9,12 +9,13 @@
 
 | Game Name | Status  |
 | ---- | ---- |
-| CSGO |   :heavy_check_mark: Everything working |
+| CS2 |   :heavy_check_mark: Everything working |
+| XDefiant |   :heavy_check_mark: Everything working |
 | Apex |   :heavy_check_mark: Everything working |
 | R6 |  :heavy_check_mark: Everything working |
 | EFT | :heavy_check_mark: Everything working |
 | Rust | :heavy_check_mark: Everything working |
-| ModernWarfare/Warzone | :heavy_check_mark: Everything working |
+| MW3/Warzone | :heavy_check_mark: Everything working |
 | Fortnite | :x: Use at own risk! |
 | Overwatch 2 | :heavy_check_mark: Everything working |
 
