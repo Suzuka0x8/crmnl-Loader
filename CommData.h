@@ -1,5 +1,6 @@
 #pragma once
 
+
 namespace CommData
 {
 	enum RequestType : int
