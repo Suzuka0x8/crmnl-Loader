@@ -2,6 +2,7 @@
 #include <vector>
 #include <cstdint>
 
+
 namespace resource
 {
 	std::vector<std::uint8_t> driver = {
