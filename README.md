@@ -13,9 +13,9 @@
 | XDefiant |   :heavy_check_mark: Everything working |
 | Apex |   :x: Use at own risk! |
 | R6 |  :heavy_check_mark: Everything working |
-| EFT | :x: Use at own risk! |
+| EFT | :heavy_check_mark: Everything working |
 | Rust | :x: Use at own risk! |
-| MW3/Warzone | :heavy_check_mark: Everything working |
+| BO6/Warzone | :heavy_check_mark: Everything working |
 | Fortnite | :x: Use at own risk! |
 | Overwatch 2 | :heavy_check_mark: Everything working |
 
