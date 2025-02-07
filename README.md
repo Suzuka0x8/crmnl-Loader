@@ -6,7 +6,7 @@
 ---
   
 ## Supported Games
-**All games in update status and some of them which are WIP**
+**All games in update status**
 | Game Name | Status  |
 | ---- | ---- |
 | CS2 |   :x: Updating |
