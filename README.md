@@ -6,7 +6,7 @@
 ---
   
 ## Supported Games
-**All games in update**
+**All games in update status and some of them which are WIP**
 | Game Name | Status  |
 | ---- | ---- |
 | CS2 |   :x: Updating |
@@ -14,8 +14,8 @@
 | R6  | :x: Updating |
 | EFT | :x: Updating |
 | Rust | :x: Updating |
-| BO6/Warzone | :x: Updating |
 | Fortnite | :x: Updating |
+| Marvel Rivals | :x: WIP |
 
 ---
 
