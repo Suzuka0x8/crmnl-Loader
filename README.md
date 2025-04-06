@@ -1,29 +1,3 @@
-# crmnl | Cheat Loader
-   
-  Thanks to [vanity15](https://github.com/vanity15) and [xCracky](https://github.com/xCracky) for the auth system, Server and Networking   <3
-  The loader is bypassing VAC,EAC, BattlEye 
-  
----
-  
-## Supported Games
-**All games in update status**
-| Game Name | Status  |
-| ---- | ---- |
-| CS2 |   :x: Updating |
-| Apex |   :x: Updating |
-| R6  | :x: Updating |
-| EFT | :x: Updating |
-| Rust | :x: Updating |
-| Fortnite | :x: Updating |
-| Marvel Rivals | :x: WIP |
-
----
-
-## License
-
-MIT
-
----
 
 ## Contact
 
